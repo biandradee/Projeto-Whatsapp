@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Projeto-Whatsapp/static/css/main.36d925bc.css",
+    "main.js": "/Projeto-Whatsapp/static/js/main.71d4ad81.js",
+    "static/media/back-wpp.png": "/Projeto-Whatsapp/static/media/back-wpp.bded4f44087fb4e89252.png",
+    "static/media/prof-programador.jpg": "/Projeto-Whatsapp/static/media/prof-programador.b73c5573e8aa8b546735.jpg",
+    "index.html": "/Projeto-Whatsapp/index.html",
+    "main.36d925bc.css.map": "/Projeto-Whatsapp/static/css/main.36d925bc.css.map",
+    "main.71d4ad81.js.map": "/Projeto-Whatsapp/static/js/main.71d4ad81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36d925bc.css",
+    "static/js/main.71d4ad81.js"
+  ]
+}
