@@ -1,4 +1,4 @@
-# Projeto Motie-Time
+# Projeto Clone do WhatsApp
 Aplicação real time, utilizando API própria 
 
 ## Tecnologias utilizadas
